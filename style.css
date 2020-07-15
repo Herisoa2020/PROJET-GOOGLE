@@ -1,0 +1,92 @@
+.golf
+{
+color: blue;
+}
+.oscar
+{
+color: red;
+}
+.olive
+{
+color:yellow;
+}
+.lima
+{
+color: green;
+}
+.echo
+{
+color: red;
+}
+.delta
+{
+font-size: 60px;
+margin-top:200px;
+margin-left: 600px;
+}
+input
+{
+margin-left: 400px;
+width:600px;
+}
+.navig
+{
+	margin-right: 200px;
+	text-align: right;
+}
+.Ig
+{
+	margin-left: 15px;
+}
+a
+{
+	color: black;
+	text-decoration: none;
+}
+a:hover
+{
+	text-decoration: none;
+}
+.boutton
+{
+	margin-left: 600px;
+}
+p
+{
+	margin-left: 60px;
+	text-align: center;
+}
+a.Ml
+{
+	color:blue;
+}
+#conteneur
+{
+	display:flex;
+	align-self: flex-end;
+	margin-top: 190px;
+}
+a.fonctionnement
+{
+	margin-left: 130px;
+	text-decoration:underline;
+	color:blue;
+}
+.Info
+{
+	margin-left:100px;
+	text-decoration:underline;
+	color:blue;
+}
+.Element
+{
+	margin-left: 70px;
+	text-decoration:underline;
+	color:blue;
+}
+.Pub
+{
+	margin-left: 0;
+	text-decoration:underline;
+	color:blue;
+}
